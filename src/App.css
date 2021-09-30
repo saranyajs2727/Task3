@@ -1,0 +1,164 @@
+body{
+  
+  margin: 0px;
+  padding: 0px;
+}
+.text{
+  margin-left: 300px;
+  border-radius: 40px;
+  margin-right: 20px;
+
+}
+.myblog{
+  margin-left: 500px;
+}
+ .blog{
+  margin-left: 100px;
+}
+.ownblog{
+  margin-top: 0px;
+  width: 800px;
+  padding-bottom: 200px;
+}
+.title{
+  margin-top: 0px;
+  width: 800px;
+  padding-bottom: 30px;
+}
+.image{
+ margin: 100px 100px 0px 100px;
+}
+.submit{
+  margin: 30px 0px 0px 300px;
+}
+.container {
+  text-align: center;
+}
+.text
+{
+  padding: 5px;
+  margin: 6px;
+  border: 1px solid black;
+}
+.textes{
+   margin-left: 200px;
+   margin-right: 5px;
+}
+.g-signin{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  border: 2px solid rgb(82, 114, 217);
+}
+
+.texts
+{
+  padding: 5px;
+  margin: 6px;
+  border: 1px solid black;
+}
+.s{
+  text-align: center;
+}
+
+#btn
+{
+  padding: 5px;
+  width: 150px;
+  background-color: blue;
+  cursor: pointer;
+  text-align: center;
+  border:1px solid black;
+  margin: 15px;
+
+}
+.content{
+  margin-left: 200px;
+  margin-top: 0px;
+}
+.delete{
+  padding: 500px;
+  
+}
+.userblog{
+  margin: 20px;
+  border:1px solid black;
+  padding: 100px;
+}
+.seach{
+  margin-left: 300px;
+}
+
+/* write.css */
+.write {
+  padding-top: 50px;
+}
+
+.writeImg {
+  margin-left: 150px;
+  width: 70vw;
+  height: 250px;
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+.writeForm {
+  position: relative;
+}
+
+.writeFormGroup {
+  margin-left: 150px;
+  display: flex;
+  align-items: center;
+}
+
+.writeIcon {
+  width: 25px;
+  height: 25px;
+  font-size: 20px;
+  border: 1px solid;
+  border-radius: 50%;
+  color: rgb(129, 125, 125);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.writeInput {
+  font-size: 30px;
+  border: none;
+  padding: 20px;
+  width: 70vw;
+}
+
+.writeInput::placeholder {
+  color: rgb(189, 185, 185);
+  font-weight: 400;
+}
+
+.writeInput:focus {
+  outline-style: none;
+}
+
+.writeText {
+  width: 70vw;
+  height: 100vh;
+  font-family: inherit;
+  font-size: 20px;
+}
+
+.writeSubmit {
+  position: absolute;
+  top: 20px;
+  right: 50px;
+  color: white;
+  background-color: teal;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
